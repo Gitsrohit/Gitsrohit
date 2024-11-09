@@ -17,6 +17,7 @@ Welcome to my GitHub! I'm a passionate developer and technology enthusiast curre
 
 ## My Projects
 · DrQuick - Doctor appointment booking app.
+
 · To-Do List Application - Built with clean, efficient code
 Feel free to check out my repositories for more!
 
