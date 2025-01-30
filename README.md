@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate developer and technology enthusiast curre
 
 · Languages: C++, JavaScript, HTML5, CSS3
 
-· Frameworks & Libraries: Node.js, React, Express
+· Frameworks & Libraries: Node.js, React, React Native and Express
 
 · Tools & Technologies: Git, Docker, AWS, MongoDB/MySQL
 
